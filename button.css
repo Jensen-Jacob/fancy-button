@@ -19,7 +19,7 @@ button {
 button:hover {
   transform: translateY(-4px);
   color: #fff;
-  border-color: #fffd79;
+  border-color: #f1ff5c;
   box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
   -webkit-box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
   -moz-box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
