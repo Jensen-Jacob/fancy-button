@@ -14,6 +14,7 @@ button {
   font-size: large;
   padding: 1rem;
   cursor: pointer;
+  transition: transform 0.25s, color 0.25s, border-color 0.25s, box-shadow 0.25s;
 }
 
 button:hover {
