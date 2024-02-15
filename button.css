@@ -11,7 +11,16 @@ button {
   background: none;
   color: #ffc164;
   border: #ffc164 2px solid;
-  font-size: medium;
+  font-size: large;
   padding: 1rem;
   cursor: pointer;
+}
+
+button:hover {
+  transform: translateY(-4px);
+  color: #fff;
+  border-color: #fffd79;
+  box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+  -webkit-box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+  -moz-box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
 }
