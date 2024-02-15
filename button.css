@@ -6,3 +6,12 @@ body {
   justify-content: center;
   background-color: #151b29;
 }
+
+button {
+  background: none;
+  color: #ffc164;
+  border: #ffc164 2px solid;
+  font-size: medium;
+  padding: 1rem;
+  cursor: pointer;
+}
